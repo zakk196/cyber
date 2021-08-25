@@ -1,0 +1,29 @@
+sum=$(($First_num*$Second_num))
+
+sum=$(($First_num-$Second_num))
+
+if[[ $first_num -ne 0 ]] && [[ $Second_num -ne 0 ]]
+
+then
+
+Div$(($First_num/$Second_num))
+
+fi
+
+echo $First_num "+" $Second_num "=" $Sum >> result.txt
+
+echo $First_num "*" $Second_num "=" $SMul >> result.txt
+
+echo $First_num "-" $Second_num "=" $Sub  >>result.txt
+
+if [[ $First_num -eq 0 ]] || [[ $second_num -eq 0 ]]
+
+then
+
+echo "you cant devide by 0"
+
+else 
+
+echo $first_num "/" $Second_num "=" $Div >> result.txt
+
+fi
