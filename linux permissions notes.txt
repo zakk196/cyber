@@ -1,0 +1,24 @@
+
+
+windows you cant run an app without a extention, with linux you dont need an extention or you can run any extention. linux doesnt care.
+
+3rd party apps do care becasue they need to know what app to open.
+
+
+
+nano script01.sh - will run a script file on terminal.
+
+
+
+./script01.sh- will run the script
+
+
+
+chmod 770 script01.sh- ch mod will change permission script is the file and 770 is the perrmision exampe r4ead write.
+
+
+
+
+
+ls -la- will show the current permissions.
+

@@ -1,0 +1,164 @@
+ 1  pwd
+
+    2  mkdir cyber
+
+    3  mkdir cyber-directory
+
+    4  ls
+
+    5  ls -l
+
+    6  ls -a
+
+    7  6+6
+
+    8  6+6=
+
+    9  ?
+
+   10  helo
+
+   11  help
+
+   12  touch
+
+   13  cd
+
+   14  mc cp
+
+   15  man cp
+
+   16  ls -l
+
+   17  cat /ect/passwd
+
+   18  cat /ect/passwd | grep zak
+
+   19  exir
+
+   20  exit
+
+   21  cat /ect/passwd
+
+   22  sudo apt-get update
+
+   23  sudo abpt-get upgrade
+
+   24  sudo apt-get update
+
+   25  sudo apt-get upgrade
+
+   26  exit
+
+   27  sudo apt-get upgrade
+
+   28  ps
+
+   29  ps -ef
+
+   30  ps -ef | grep apt
+
+   31  sudo kill 2828
+
+   32  ps -ef | grep apt
+
+   33  sudo lsof 
+
+   34  sudo lsof /var/lib/dpkg/lock-frontend
+
+   35  sudo kill 4954 -9
+
+   36  sudo lsof /var/lib/dpkg/lock-frontend
+
+   37  sudo apt-get upgrade
+
+   38  sudo apt install tree
+
+   39  tree
+
+   40  man tree
+
+   41  tyre tree
+
+   42  type tree
+
+   43  whereis tree
+
+   44  histroy
+
+   45  history
+
+
+
+
+
+
+
+
+
+history - will show the history of commands that you have used.
+
+
+
+sudo usermod -ag sude webserver- this will add the user to another group
+
+
+
+Su- stands for switch user.( su webserver) ( su zak) will switch from zak to cyber.
+
+
+
+sudo update- this will update the item in admin mode.
+
+
+
+cat /ect/passwd - will list how many users there are.
+
+
+
+sudo deluser webserver sudo- this will remove the user webserver from sudo
+
+
+
+passwd -S  - will give info about your current password... when it was changed when expires ect in 
+
+days
+
+
+
+sudo passwd -d - will delete password for an account
+
+
+
+sudo deluser webserver- this will delete the user webserver from the system.
+
+
+
+ps-ef | grep 25445 - this will show all the processes and the status of 25445
+
+
+
+sudo kill 25445 -9 - ths will end the process of 25445 using -9 will force it to quit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
